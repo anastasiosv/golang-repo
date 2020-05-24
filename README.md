@@ -1,4 +1,4 @@
-# Project Title
+# golang-repo: My golang playground
 Golang scripts, created to learn and experiment with language.
 
 ## Contributing
